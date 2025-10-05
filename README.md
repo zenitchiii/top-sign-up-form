@@ -1,30 +1,27 @@
-🧾 Sign-Up Form
+🌿 The Odin Project – Sign-Up Form
 
-A responsive and visually appealing sign-up form project built as part of The Odin Project
-.
-This project demonstrates the use of HTML and CSS Flexbox to create a two-column layout with an image on the left and a form on the right — closely replicating the official Odin sign-up form design.
+This is my Sign-Up Form project for The Odin Project’s Intermediate HTML and CSS course.
+It’s a clean, responsive form layout with a left-side image and a right-side registration form — similar to the example shown in the course.
 
-🖼️ Preview
+✨ Features
 
-The layout features:
+📸 Left-side background image with an Odin logo overlay
 
-A full-height background image on the left with the Odin logo overlay.
+🧱 Responsive two-column layout using Flexbox
 
-A text and form section on the right that scales smoothly with the viewport.
+💬 Labels positioned above inputs for accessibility
 
-Proper label placement and input alignment for an accessible and professional form.
+🌈 Form input highlighting and simple validation styling
 
-🧩 Features
+🎨 Custom colors and button hover effects
 
-✅ Modern two-column layout using Flexbox
-✅ Responsive design that adjusts to different screen sizes
-✅ Custom fonts (Norse Bold for Odin logo, Sans-serif for text)
-✅ Clean form validation states (red borders for invalid input)
-✅ Styled Create Account button with hover effects
-✅ Minimalist color scheme inspired by The Odin Project’s original form
+🧠 Clean, minimalist design inspired by the official Odin version
 
 📸 Credits
 
-Font: Norse Bold (used for Odin logo)
-Background Photo: Gabriele Stravinskaite via Unsplash
-Inspiration: The Odin Project
+Background Image: Gabriele Stravinskaite
+ on Unsplash
+
+Logo Font: Norse-Bold.otf (used for the ODIN logo)
+
+Project: The Odin Project - Sign Up Form
